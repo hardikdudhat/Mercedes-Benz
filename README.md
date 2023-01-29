@@ -1,6 +1,6 @@
 # Mercedes-Benz-Greener-Manufacturing
 
-DESCRIPTION
+DESCRIPTION:
 
 Reduce the amount of time a Mercedes-Benz spends on the test track.
 
